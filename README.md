@@ -26,7 +26,7 @@
     pragma solidity ^0.8.24;
     
     contract Profile {
-        string public name = "AZHAR TAMBOLI";
+        string public name = "SANDF_M17";
         string public pronouns = "He | Him";
         string public currentFocus = "Web3 / dApps";
     
