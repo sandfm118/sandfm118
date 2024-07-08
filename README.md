@@ -6,6 +6,7 @@
    ## Connect with me
 <a href="https://x.com/SANDF_M17"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
   <div> sandfm17@gmail.com</div>
+  <br>
    ## About Me...                                   
     
   - 🔗 I’m currently learning Blockchain - security researcher.
@@ -26,7 +27,7 @@
     pragma solidity ^0.8.24;
     
     contract Profile {
-        string public name = "AZHAR TAMBOLI";
+        string public name = "SNADF_M17";
         string public pronouns = "He | Him";
         string public currentFocus = "Web3 / dApps";
     
