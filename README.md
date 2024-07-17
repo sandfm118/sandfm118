@@ -1,7 +1,8 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=0026ff&size=25&center=true&vCenter=true&lines=Web3+Security+Researcher;⛓️+Blockchain+Enthusiast"alt="Currently security researcher">
     </p>
-    
+
+ <img  height="50" src="./my-pic.jpg" alt="**BG**">
     
    ## Connect with me
 <a href="https://x.com/SANDF_M17"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
