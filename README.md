@@ -1,8 +1,8 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=0026ff&size=25&center=true&vCenter=true&lines=Web3+Security+Researcher;⛓️+Blockchain+Enthusiast"alt="Currently security researcher">
-    </p>
+<p align="center" style="background-image: url('./my-pic.png'); background-size: cover; padding: 50px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=25&center=true&vCenter=true&lines=Web3+Security+Researcher;⛓️+Blockchain+Enthusiast" alt="Currently security researcher">
+</p>
 
- <img  height="120" src="./my-pic.png" alt="**BG**">
+<img height="120" src="./my-pic.png" alt="**BG**">
     
    ## Connect with me
 <a href="https://x.com/SANDF_M17"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
