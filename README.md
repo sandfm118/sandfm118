@@ -6,7 +6,7 @@
     
    ## Connect with me
 <a href="https://x.com/SANDF_M17"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
-  <div> sandfm17@gmail.com</div>
+ 
   <br>
    ## About Me...                                   
     
