@@ -5,7 +5,7 @@
 <img height="120" src="./my-pic.png" alt="**BG**">
     
    ## Connect with me
-<a href="https://x.com/SANDF_M17"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
+<a href="https://x.com/SANDF_M17"><img width="90" height="90" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
  
   <br>
    ## About Me...                                   
