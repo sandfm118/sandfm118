@@ -13,7 +13,7 @@
   - 🔗 I’m currently learning Blockchain - security researcher.
   - 👐 I’m looking to contribute to open source
    - 🥅 2025 Goals: Learn more about Blockchains and security .
-  - ⚡ Fun fact: I love to play games and read tech news.
+  - ⚡ Fun fact: I love to play games and reading docs.
 
       ![Visitor Count](https://profile-counter.glitch.me/sandfm17/count.svg)
 
