@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=25&center=true&vCenter=true&lines=Web3+Security+Researcher;⛓️+Blockchain+Enthusiast" alt="Currently security researcher">
 </p>
 
-<img height="10%" width="15%" src="./my-pic.png" alt="**BG**">
+<img height="10vh" width="15vw" src="./my-pic.png" alt="**BG**">
     
    ## Connect with me
 <a href="https://x.com/SANDF_M17"><img width="90" height="90" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="twitterx--v1"/></a>
