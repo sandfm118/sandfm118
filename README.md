@@ -37,6 +37,7 @@
         function getSkills() public returns (string[] memory) {
             skills = [
                 string("Javascript"),
+                "Next.js"
                 "react",
                 "Solidity",
                 "Hardhat",
