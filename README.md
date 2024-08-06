@@ -47,15 +47,16 @@
             return skills;
         }
     
-        function fun() public view returns (string memory) {
+          function fun() public view returns (string memory) {
         uint256 randomNumber = uint256(keccak256(abi.encodePacked(blockhash(block.number - 1), msg.sender)));
-    
+
          if (randomNumber % 2 == 0) {
-             return "Why are smart contracts afraid of Halloween? Because of the boo-lean logic errors! ";
-         } else {
-             return "What does a blockchain researcher do when theyre stuck on a problem? They hash it out! ";
-         }
-        }
+             return "Why do developers always carry a dictionary? Because they need to decode the error messages!";
+        } else {
+             return "Why did the blockchain break up with the database? It couldn't handle the blocks in the relationship!";
+       }
+     }
+
     }
     
   ```
