@@ -1,7 +1,7 @@
 <div >
 <p align="center" style="padding: 50px; position: relative; width: 80%; margin: auto;">
         <img src="./my-pic.png" alt="background" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 50%; height: auto; z-index: -1; opacity: 0.5;">
-       <h2> SECURE ANALYSIS OF NEXT-GEN DEFI </h2>
+       <h2 align="center" > SECURE ANALYSIS OF NEXT-GEN DEFI </h2>
     </p>
  
   <br>
